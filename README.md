@@ -29,4 +29,4 @@ Detailed protocols for the entire data journey:
 
 ---
 ## 📄 Full Document
-The full policy document is available in this repository as `Data_Security_Policy_Sundus.pdf`.
+The full policy document is available in this repository as `SundusAli _ICT_A2 _template.pdf`.
